@@ -1,7 +1,7 @@
 id=CORD
 name=Compresss Offload and Raw Disabler
-version=v0.2
-versionCode=2
+version=v0.3
+versionCode=3
 author=Rei Ryuki the Fixer
 description=Compress Offload and Ultra Low Latency (Raw) playback disabler for any Android versions.
 
